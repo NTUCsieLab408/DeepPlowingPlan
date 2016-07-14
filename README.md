@@ -11,9 +11,9 @@ support single-point failure, and optimize end-to-end delay.
 
 ## Sample
 證交所's sample
-
+![Sample](http://i.imgur.com/mAifOUa.png)
 ## Documentation
-i[Sample](https://drive.google.com/open?id=0Byf6Eaoqw0B6Y3M5OEZ2V1lkMU0)
+
 ## Future plan
 First year: Base on OpenCL design idea, construct mobile device virtual memory transform standard library.
 
